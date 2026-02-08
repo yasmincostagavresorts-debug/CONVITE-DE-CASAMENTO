@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="robots" content="index, follow">
 <meta name="description" content="Site de casamento de Lucas e Yasmin - 25 de Fevereiro de 2026">
-    <title>Lucas & Yasmin</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
 
